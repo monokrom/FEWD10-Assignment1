@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+html {
+        background-color: bisque
+
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 10%;
+    padding: 30px;
+    text-align: center;
+   
+}
+
+h1 {
+    font-weight: 700;
+    color:cadetblue
+
+}
+
+
+h2 {
+    font-weight: 400;
+    color:cornsilk
+
+}
+
+p {
+    padding-bottom: 10px;
+}
+
+img {
+    max-width: 100vh;
+}
+
+#about-bg {
+    
+background: url(img/msp_0810_1792.jpg) no-repeat center center fixed;
+
+}
+
+#portfolio-bg {
+    
+background: url(img/msp_0810_1791.jpg) no-repeat center center fixed;
+
+}

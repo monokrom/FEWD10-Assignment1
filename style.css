@@ -1,0 +1,125 @@
+body {
+    font-family: helvetica, san-serif;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.3em;
+    text-align: center;
+    padding: 40px;
+    background-color: #e3dac9;
+}
+
+body.about {
+    height: 100vh;
+    background-image: url("img/about_image.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+header.about {
+    margin: auto;
+    min-width: 40%;
+    max-width: 40%;
+    padding: 50px 50px 0px 50px;
+}
+
+header {
+    margin: 0px width: 100vw;
+}
+
+nav {
+    padding: 12px 5px;
+}
+
+h1 {
+    font-size: 1.5em;
+    line-height: 1.2em;
+}
+
+h2 {
+    font-size: 1.3em;
+    line-height: 1.2em;
+}
+
+h3 {
+    font-size: 1.2em;
+    line-height: 1.2em;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.3em;
+}
+
+a {
+    font-weight: bold;
+    color: #05080C;
+}
+
+li {
+    list-style-type: none;
+}
+
+section {
+    margin: 40px;
+    padding: 40px;
+    text-align: center;
+    background-color: #d4c7af;
+}
+
+section.edu {
+    padding: 40px;
+}
+
+article {
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    margin: 10px 20px;
+}
+
+footer {
+    padding: 40px;
+}
+
+.img {
+    width: 300px;
+}
+
+.white {
+    color: white;
+}
+
+.light {
+    font-size: 1em;
+    color: #e3dac9;
+}
+
+.button {
+    background-color: #148bc9;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+.social {
+    padding-top: 15px;
+    margin: 10px;
+}
+
+img.head {
+    margin: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.text {
+    padding: 10px;
+    text-align: left;
+    font-size: 0.9em;
+}
